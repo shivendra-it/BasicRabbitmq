@@ -1,0 +1,6 @@
+*) This is basic Code of a server and client in go.
+*) This uses RabbitMQ queue as a pipeline.
+*) For this ampq package is used.
+*) For running this code you should have running rabbitmq server.
+
+Shivendra Pratap Singh
